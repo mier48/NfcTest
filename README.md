@@ -2,6 +2,6 @@
 
 Test of an app with nfc reader
 
-## Construido con 🛠️
+## Buiy with 🛠️
 
 * [Java]
